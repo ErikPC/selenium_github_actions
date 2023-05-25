@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+
+# Gradle files
+.gradle/
+build/
+
+# Caches
+out/
+
+# IntelliJ project files
+*.iml
+*.ipr
+*.iws
+
+# Gradle specific files
+gradle/
+gradlew
+gradlew.bat
+
+Test-reports/

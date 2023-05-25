@@ -1,6 +1,6 @@
-# Proyecto SauceDemo
+# Proyecto OrageDemo
 
-Este es un proyecto sencillo de formación que realiza pruebas en una página llamada SauceDemo. Utiliza el patrón Page Object para organizar y estructurar el código.
+Este es un proyecto sencillo de formación que realiza pruebas en una página llamada Orange. Utiliza el patrón Page Object para organizar y estructurar el código.
 
 ## Manual de Instalación
 

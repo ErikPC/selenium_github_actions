@@ -31,4 +31,4 @@ jobs:
           gradle-version: '8.1.1'
 
       - name: Build with Gradle
-        run: gradle test -Dcucumber.filter.tags="@profile" -DheadlessMode=true -DwebDriver=chromeDriver -DfullSteps=false
+        run: gradle test -Dcucumber.filter.tags="@profile" -DheadlessMode=true -DwebDriver=chromeDriver -DfullSteps=false -DwindowSize=1336x860
